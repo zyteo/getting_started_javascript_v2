@@ -13,7 +13,7 @@ This course was created back in 2019 and I acknowledge some time has passed. I w
 |   3 | Values          | values.js     |
 |   4 | Operations      | operations.js |
 |   5 | Types           | types.js      |
-|   6 |                 |               |
+|   6 | Variables       | variables.js  |
 |   7 |                 |               |
 |   8 |                 |               |
 |   9 |                 |               |
