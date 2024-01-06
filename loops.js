@@ -4,14 +4,15 @@
 let students = ["Harry", "Ron", "Hermione", "Draco", "Neville"];
 
 const greetStudent = (student) => {
-    console.log(`Hello, ${student}!`)
-}
+  // ` is an interpolation string
+  console.log(`Hello, ${student}!`);
+};
 for (let i = 0; i < students.length; i++) {
-    greetStudent(students[i]);
+  greetStudent(students[i]);
 }
 
 for (let student of students) {
-    greetStudent(student);
+  greetStudent(student);
 }
 
 // pop removes the last element of an array and returns it
@@ -22,6 +23,6 @@ for (let student of students) {
 
 // shift removes the first element of an array and returns it
 while (students.length > 0) {
-    let student = students.shift();
-    greetStudent(student);
+  let student = students.shift();
+  greetStudent(student);
 }
