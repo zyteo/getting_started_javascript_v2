@@ -16,7 +16,7 @@ This course was created back in 2019 and I acknowledge some time has passed. I w
 |   6 | Variables                | variables.js                |
 |   7 | Expression vs Statements | expression_vs_statements.js |
 |   8 | If & Else                | if_else.js                  |
-|   9 |                          |                             |
-|  10 |                          |                             |
+|   9 | Loops                    | loops.js                    |
+|  10 | Functions                | functions.js                |
 |  11 |                          |                             |
 |  12 |                          |                             |
