@@ -21,7 +21,7 @@ This course was created back in 2019 and I acknowledge some time has passed. I w
 |  11 | Programming Primer Exercise | ex.js                       |
 |  12 | Primitive Types             | primitive_types.js          |
 |  13 | NaN                         | nan.js                      |
-|  14 |                             |                             |
+|  14 | New                         | new.js                      |
 |  15 |                             |                             |
 |  16 |                             |                             |
 |  17 |                             |                             |
