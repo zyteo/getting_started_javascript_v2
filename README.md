@@ -22,9 +22,9 @@ This course was created back in 2019 and I acknowledge some time has passed. I w
 |  12 | Primitive Types             | primitive_types.js          |
 |  13 | NaN                         | nan.js                      |
 |  14 | New                         | new.js                      |
-|  15 |                             |                             |
-|  16 |                             |                             |
-|  17 |                             |                             |
+|  15 | Coercion                    | coercion.js                 |
+|  16 | Booleans                    | booleans.js                 |
+|  17 | Coercion Best Practices     | booleans.js                 |
 |  18 |                             |                             |
 |  19 |                             |                             |
 |  20 |                             |                             |
