@@ -6,38 +6,38 @@ Doing a refresher on JavaScript because the last 2 years I have been building st
 
 This course was created back in 2019 and I acknowledge some time has passed. I will adapt the code I see accordingly. For example, when I see var, I will change it to let or const instead.
 
-|  No | Title                       | File                        |
-| --: | --------------------------- | --------------------------- |
-|   1 | Introduction                | intro.js                    |
-|   2 | Course overview             | intro.js                    |
-|   3 | Values                      | values.js                   |
-|   4 | Operations                  | operations.js               |
-|   5 | Types                       | types.js                    |
-|   6 | Variables                   | variables.js                |
-|   7 | Expression vs Statements    | expression_vs_statements.js |
-|   8 | If & Else                   | if_else.js                  |
-|   9 | Loops                       | loops.js                    |
-|  10 | Functions                   | functions.js                |
-|  11 | Programming Primer Exercise | ex.js                       |
-|  12 | Primitive Types             | primitive_types.js          |
-|  13 | NaN                         | nan.js                      |
-|  14 | New                         | new.js                      |
-|  15 | Coercion                    | coercion.js                 |
-|  16 | Booleans                    | booleans.js                 |
-|  17 | Coercion Best Practices     | booleans.js                 |
-|  18 | Equality                    | equality.js                 |
-|  19 | Types Summary               | equality.js                 |
-|  20 | Scope                       | scope.js                    |
-|  21 | Undefined vs Undeclared     | scope.js                    |
-|  22 | Function Expressions        |                             |
-|  23 | IIFEs                       |                             |
-|  24 |                             |                             |
-|  25 |                             |                             |
-|  26 |                             |                             |
-|  27 |                             |                             |
-|  28 |                             |                             |
-|  29 |                             |                             |
-|  30 |                             |                             |
-|  31 |                             |                             |
-|  32 |                             |                             |
-|  33 |                             |                             |
+|  No | Title                          | File                        |
+| --: | ------------------------------ | --------------------------- |
+|   1 | Introduction                   | intro.js                    |
+|   2 | Course overview                | intro.js                    |
+|   3 | Values                         | values.js                   |
+|   4 | Operations                     | operations.js               |
+|   5 | Types                          | types.js                    |
+|   6 | Variables                      | variables.js                |
+|   7 | Expression vs Statements       | expression_vs_statements.js |
+|   8 | If & Else                      | if_else.js                  |
+|   9 | Loops                          | loops.js                    |
+|  10 | Functions                      | functions.js                |
+|  11 | Programming Primer Exercise    | ex.js                       |
+|  12 | Primitive Types                | primitive_types.js          |
+|  13 | NaN                            | nan.js                      |
+|  14 | New                            | new.js                      |
+|  15 | Coercion                       | coercion.js                 |
+|  16 | Booleans                       | booleans.js                 |
+|  17 | Coercion Best Practices        | booleans.js                 |
+|  18 | Equality F                     | equality.js                 |
+|  19 | Types Summary                  | equality.js                 |
+|  20 | Scope                          | scope.js                    |
+|  21 | Undefined vs Undeclared        | scope.js                    |
+|  22 | Function Expressions           | func_expressions.js         |
+|  23 | IIFEs (Immediately Invoked FE) | iife.js                     |
+|  24 |                                |                             |
+|  25 |                                |                             |
+|  26 |                                |                             |
+|  27 |                                |                             |
+|  28 |                                |                             |
+|  29 |                                |                             |
+|  30 |                                |                             |
+|  31 |                                |                             |
+|  32 |                                |                             |
+|  33 |                                |                             |
