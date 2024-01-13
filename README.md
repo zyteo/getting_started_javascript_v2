@@ -25,6 +25,19 @@ This course was created back in 2019 and I acknowledge some time has passed. I w
 |  15 | Coercion                    | coercion.js                 |
 |  16 | Booleans                    | booleans.js                 |
 |  17 | Coercion Best Practices     | booleans.js                 |
-|  18 |                             |                             |
-|  19 |                             |                             |
-|  20 |                             |                             |
+|  18 | Equality                    | equality.js                 |
+|  19 | Types Summary               | equality.js                 |
+|  20 | Scope                       |                             |
+|  21 | Undefined vs Undeclared     |                             |
+|  22 | Function Expressions        |                             |
+|  23 | IIFEs                       |                             |
+|  24 |                             |                             |
+|  25 |                             |                             |
+|  26 |                             |                             |
+|  27 |                             |                             |
+|  28 |                             |                             |
+|  29 |                             |                             |
+|  30 |                             |                             |
+|  31 |                             |                             |
+|  32 |                             |                             |
+|  33 |                             |                             |
