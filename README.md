@@ -31,8 +31,8 @@ This course was created back in 2019 and I acknowledge some time has passed. I w
 |  21 | Undefined vs Undeclared        | scope.js                    |
 |  22 | Function Expressions           | func_expressions.js         |
 |  23 | IIFEs (Immediately Invoked FE) | iife.js                     |
-|  24 |                                |                             |
-|  25 |                                |                             |
+|  24 | Block Scoping with let         | block_scoping.js            |
+|  25 | Closure                        | closure.js                  |
 |  26 |                                |                             |
 |  27 |                                |                             |
 |  28 |                                |                             |
