@@ -33,8 +33,8 @@ This course was created back in 2019 and I acknowledge some time has passed. I w
 |  23 | IIFEs (Immediately Invoked FE) | iife.js                     |
 |  24 | Block Scoping with let         | block_scoping.js            |
 |  25 | Closure                        | closure.js                  |
-|  26 |                                |                             |
-|  27 |                                |                             |
+|  26 | this                           | this.js                     |
+|  27 | Prototypes                     | prototypes.js               |
 |  28 |                                |                             |
 |  29 |                                |                             |
 |  30 |                                |                             |
