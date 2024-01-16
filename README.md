@@ -35,7 +35,7 @@ This course was created back in 2019 and I acknowledge some time has passed. I w
 |  25 | Closure                        | closure.js                  |
 |  26 | this                           | this.js                     |
 |  27 | Prototypes                     | prototypes.js               |
-|  28 |                                |                             |
+|  28 | class                          | class.js                    |
 |  29 |                                |                             |
 |  30 |                                |                             |
 |  31 |                                |                             |
