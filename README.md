@@ -36,7 +36,7 @@ This course was created back in 2019 and I acknowledge some time has passed. I w
 |  26 | this                           | this.js                     |
 |  27 | Prototypes                     | prototypes.js               |
 |  28 | class                          | class.js                    |
-|  29 |                                |                             |
+|  29 | Three Pillars of JS Exercise   | ex2.js                      |
 |  30 |                                |                             |
 |  31 |                                |                             |
 |  32 |                                |                             |
