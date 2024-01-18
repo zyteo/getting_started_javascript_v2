@@ -17,7 +17,13 @@ class Bookshelf {
   }
 }
 
-function loadBooks(/* .. */) {
+function loadBooks(bookshelf) {
+  fakeAjax(BOOK_API, function booksCallBack(bookNames) {
+    for (let book of bookNames) {
+      bookshelf.addFavoriteBook(book);
+    }
+    bookshelf.printFavoriteBooks();
+  });
   // TODO: call fakeAjax( .. );
 }
 
@@ -40,6 +46,7 @@ function fakeAjax(url, cb) {
 
 var English = new Bookshelf();
 
-English.addFavoriteBook("A Song of Ice and Fire");
-English.addFavoriteBook("The Great Gatsby");
+English.addFavoriteBook("Testing book");
 English.printFavoriteBooks();
+
+loadBooks(English);
