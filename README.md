@@ -6,6 +6,10 @@ Doing a refresher on JavaScript because the last 2 years I have been building st
 
 This course was created back in 2019 and I acknowledge some time has passed. I will adapt the code I see accordingly. For example, when I see var, I will change it to let or const instead.
 
+Course completed Jan 2024.
+
+![Completion image](image.png)
+
 |  No | Title                          | File                        |
 | --: | ------------------------------ | --------------------------- |
 |   1 | Introduction                   | intro.js                    |
@@ -37,7 +41,3 @@ This course was created back in 2019 and I acknowledge some time has passed. I w
 |  27 | Prototypes                     | prototypes.js               |
 |  28 | class                          | class.js                    |
 |  29 | Three Pillars of JS Exercise   | ex2.js                      |
-|  30 |                                |                             |
-|  31 |                                |                             |
-|  32 |                                |                             |
-|  33 |                                |                             |
